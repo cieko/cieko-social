@@ -82,6 +82,13 @@
                 <Icon name="ph:user" size="20" />
                 <span class="pl-2 font-semibold text-sm">Profile</span>
               </NuxtLink>
+              <NuxtLink
+                @click="($event) => (showMenu = false)"
+                class="flex items-center justify-start py-3 px-2 hover:bg-gray-100 cursor-pointer"
+              >
+                <Icon name="uiw:pay" size="20" />
+                <span class="pl-2 font-semibold text-sm">Shop</span>
+              </NuxtLink>
               <div
                 class="flex items-center justify-start py-3 px-1.5 hover:bg-gray-100 border-t cursor-pointer"
               >

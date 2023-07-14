@@ -37,6 +37,11 @@
         Following accounts
       </div>
 
+      <div class="lg:hidden block pt-3" />
+
+      <div class="cursor-pointer">
+        <MenuItemFollow />
+      </div>
       <button class="lg:block hidden text-[#F02C56] pt-1.5 pl-2 text-[13px]">
         See more
       </button>
@@ -45,12 +50,8 @@
     <div class="lg:block hidden border-b lg:ml-2 mt-2" />
 
     <div class="lg:block hidden text-[11px] text-gray-500">
-      <div class="pt-4 px-2">
-        About News Cieko Shop Contact
-      </div>
-      <div class="pt-4 px-2">
-        A new and futuristic social media app
-      </div>
+      <div class="pt-4 px-2">About News Cieko Shop Contact</div>
+      <div class="pt-4 px-2">A new and futuristic social media app</div>
       <div class="pt-4 px-2">
         Help Safety Terms Privacy Creator Portal Community Guidelines
       </div>
