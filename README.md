@@ -1,4 +1,5 @@
-> # It is a Tiktok clone
+> # The design has been taken from Tiktok
+just a learning video - No misnue of the resources
 ### Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
