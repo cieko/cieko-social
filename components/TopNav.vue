@@ -83,7 +83,10 @@
                 <span class="pl-2 font-semibold text-sm">Profile</span>
               </NuxtLink>
               <NuxtLink
+                to="https://ciek-store.vercel.app/"
                 @click="($event) => (showMenu = false)"
+                target="_blank"
+                rel="noreferrer noopener"
                 class="flex items-center justify-start py-3 px-2 hover:bg-gray-100 cursor-pointer"
               >
                 <Icon name="uiw:pay" size="20" />

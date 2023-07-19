@@ -89,7 +89,7 @@
               </div>
             </div>
             <button
-              @click="($event) => clearVideo"
+              @click="($event) => clearVideo()"
               class="text-[11px] ml-2 font-semibold"
             >
               Change
